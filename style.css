@@ -1,0 +1,14 @@
+.quote-box {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.quote-text {
+    font-size: 24px;
+    text-align: center;
+}
+
+.quote-aurthor {
+    text-align: right;
+    margin-top: 40px;
+}
